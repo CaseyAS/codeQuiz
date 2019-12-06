@@ -1,0 +1,22 @@
+body {
+    max-width: 640px;
+}
+
+.container {
+    width: 640px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#row2 {
+    background-color: lightgray;
+}
+
+#highScore {
+    float: left;
+}
+
+#timer {
+    float: right;
+}
